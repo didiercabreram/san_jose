@@ -1,0 +1,28 @@
+# Ignorar carpetas .venv
+.venv/
+venv/
+env/
+ENV/
+
+
+# Ignorar carpetas __pycache__
+__pycache__/
+venv/**/__pycache__/
+**/__pycache__/
+__pycache__
+
+.venv
+venv
+env
+ENV
+
+__pycache__
+venv/**/__pycache__
+**/__pycache__
+
+test.txt
+.env
+
+getmjs.py
+
+consulta.xlsx
